@@ -46,7 +46,7 @@
     "svelte-loader": "2.13.6"
   },
   "dependencies": {
-    "@sveltejs/svelte-repl": "^0.2.0",
+    "@sveltejs/svelte-repl": "^0.2.1",
     "sirv-cli": "1.0.3"
   }
 }
